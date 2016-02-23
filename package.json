@@ -20,7 +20,7 @@
     "bootstrap-daterangepicker": "https://github.com/suchitadoshi1987/bootstrap-daterangepicker.git#dateandtimepicker"
   },
   "peerDependencies": {
-    "jquery": "^1.11.3",
+    "jquery": "1.11.3",
     "react": "^0.14.0"
   },
   "devDependencies": {
